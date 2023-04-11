@@ -195,8 +195,6 @@ void getNBAData(vector<BasketballPlayer*>& teamList) {
             continue;
         }
 
-        teamList.push_back(tempPlayer);
-        getline(inFile, tempRec);
     }
 
     inFile.close();
@@ -209,10 +207,12 @@ void printTeam(ofstream& outFile, vector<BasketballPlayer*> const& teamList) {
     for (int i = 0; i < teamList.size(); i++) {
         outFile << setw(20) << teamList[i]->getPlayerName() << setw(8) << teamList[i]->getValue() << setw(14) << fixed << setprecision(2) <<
             teamList[i]->getEffRating() << setw(10) << fixed << setprecision(2) << teamList[i]->getEFG() << endl;
-
-        for (auto i : teamList) {
+    }
+}
+    /*    for (auto i : teamList) {
             cout << setw(20) << i->getPlayerName() << setw(8) << i->getValue() << setw(14) << fixed << setprecision(2) <<
                 i->getEffRating() << setw(8) << i->getEFG() << endl;
         }
     }
 }
+*/

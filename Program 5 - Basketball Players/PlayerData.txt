@@ -112,3 +112,589 @@ Terrance Williams II       3          2.33      0.38
         Clint Capela       9         18.59      0.61
          Cody Zeller       7          6.48      0.57
         Damian Jones       9         10.11      0.68
+      Daniel Gafford       9         12.72      0.69
+        Daniel Oturu-842150451 -431602080.00      0.50
+        Daniel Theis       7          7.99      0.58
+       Deandre Ayton       9         18.96      0.64
+      DeAndre Jordan       8          8.05      0.64
+    DeMarcus Cousins       5          7.09      0.52
+      Derrick Favors       5          6.32      0.52
+      Dewayne Dedmon       7          8.47      0.60
+        Drew Eubanks       8          9.04      0.60
+       Dwight Howard       8          9.46      0.63
+       Dwight Powell       9         11.02      0.69
+            Ed Davis       9          3.01      0.69
+        Enes Freedom       5          5.26      0.54
+      Frank Kaminsky       7         10.12      0.58
+        Goga Bitadze       7          6.59      0.56
+        Gorgui Dieng       8          4.81      0.60
+         Greg Monroe       7          7.75      0.56
+    Hassan Whiteside       9         12.94      0.65
+  Isaiah Hartenstein       8         11.59      0.64
+      Isaiah Jackson       7          7.60      0.57
+      Isaiah Stewart       7         10.88      0.53
+         Ivica Zubac       8         14.20      0.63
+     Jaime Echenique-842150451 -431602080.00      0.00
+        Jakob Poeltl       9         18.07      0.62
+       Jarrett Allen      10         21.32      0.68
+        JaVale McGee       8         11.15      0.63
+     Javin DeLaurier-842150451 -431602080.00      0.00
+        Jaxson Hayes       8          9.71      0.64
+            Jay Huff-842150451 -431602080.00      0.00
+Jeremiah Robinson-Earl       5          6.78      0.50
+        Jock Landale       7          4.40      0.57
+         Joel Embiid       9         19.22      0.53
+           Jon Teske-842150451 -431602080.00      0.00
+   Jonas Valan?i?nas       9         17.48      0.57
+         Jordan Bell-842150451 -431602080.00      0.00
+        Jusuf Nurki?       9         15.65      0.55
+           Kai Jones       9          1.12      0.68
+  Karl-Anthony Towns      10         20.07      0.59
+        Kelly Olynyk       5          7.60      0.52
+          Kevin Love       7         11.28      0.55
+        Kevon Looney       7         11.20      0.57
+          Khem Birch       5          5.58      0.49
+      Killian Tillie       3          2.16      0.44
+   LaMarcus Aldridge       7          9.76      0.57
+     Larry Nance Jr.       7          9.41      0.57
+          Luka Garza       5          3.73      0.50
+         Luke Kornet       5          2.78      0.48
+     Marko Simonovic       0         -1.41      0.30
+       Mason Plumlee       8         13.89      0.64
+        Micah Potter-842150451 -431602080.00      0.46
+        Mike Muscala       7          6.81      0.60
+   Mitchell Robinson      10         16.73      0.76
+            Mo Bamba       7         12.85      0.57
+    Montrezl Harrell       8         14.14      0.65
+       Moritz Wagner       7          7.19      0.58
+         Moses Brown       7          4.82      0.59
+        Myles Turner       8         14.12      0.59
+            Naz Reid       5          6.68      0.55
+       Neemias Queta       3          1.96      0.45
+     Nemanja Bjelica       5          7.15      0.55
+        Nerlens Noel       5          8.62      0.53
+         Nic Claxton       9         11.82      0.67
+       Nick Richards       9          3.60      0.67
+        Nikola Joki?      10         30.67      0.62
+      Nikola Vu?evi?       9         15.54      0.52
+        Norvel Pelle-842150451 -431602080.00      0.60
+        Olivier Sarr       8          8.07      0.64
+      Omer Yurtseven       5          6.62      0.53
+      Onyeka Okongwu       9         12.48      0.69
+     P.J. Washington       7         10.62      0.57
+        Paul Millsap       3          3.24      0.43
+           Paul Reed       7          4.59      0.57
+    Precious Achiuwa       5          7.00      0.49
+      Richaun Holmes       9         13.27      0.66
+     Robert Williams      10         20.09      0.74
+         Robin Lopez       7          5.80      0.56
+         Rudy Gobert      10         26.01      0.71
+         Serge Ibaka       7          7.07      0.56
+        Steven Adams       8         14.69      0.55
+          Tacko Fall       3          2.11      0.42
+          Taj Gibson       7          6.68      0.56
+       Thomas Bryant       7          6.77      0.56
+        Tony Bradley       7          4.90      0.58
+      Udoka Azubuike      10          7.36      0.75
+       Udonis Haslem       5          1.66      0.47
+    Vernon Carey Jr.       5          2.12      0.54
+ Willie Cauley-Stein       5          2.39      0.47
+   Willy Hernangómez       5          8.70      0.53
+        Zach Collins       5          8.34      0.54
+        Aaron Gordon       7         11.59      0.57
+  Aleksej Pokusevski       5          6.11      0.47
+       Alize Johnson       3          2.22      0.44
+        Anthony Gill       8          4.22      0.63
+    Bojan Bogdanovi?       7          8.23      0.55
+             Bol Bol       7          2.32      0.57
+      Brandon Clarke       8         12.63      0.65
+     Cameron Johnson       7         10.04      0.60
+     Carmelo Anthony       5          7.89      0.54
+         Chris Silva       5          3.92      0.53
+         Chuma Okeke       5          7.02      0.48
+         D.J. Wilson-842150451 -431602080.00      0.73
+       D?vis Bert?ns       5          2.82      0.50
+    Danilo Gallinari       5          7.47      0.53
+       Darius Bazley       5          7.56      0.48
+      Day'Ron Sharpe       7          7.15      0.58
+           Dean Wade       7          5.71      0.57
+       DeMar DeRozan       7         11.15      0.52
+   Derrick Jones Jr.       7          6.16      0.59
+      Devontae Cacok       9          5.60      0.68
+    Domantas Sabonis      10         21.77      0.60
+ Dorian Finney-Smith       7         10.66      0.60
+      Doug McDermott       7          6.10      0.58
+      Draymond Green       9         15.17      0.56
+       Emanuel Terry-842150451 -431602080.00      0.00
+       Eric Paschall       7          3.64      0.57
+         Evan Mobley       7         12.60      0.52
+   Freddie Gillespie       3          4.30      0.41
+        Gabriel Deck       8          2.57      0.64
+          Gary Clark       5          3.44      0.53
+       Georges Niang       7          6.21      0.57
+Giannis Antetokounmpo      10         24.99      0.58
+      Grant Williams       7          7.54      0.60
+     Harrison Barnes       7         10.57      0.55
+       Herbert Jones       5          8.00      0.52
+         Isaiah Roby       7          9.84      0.58
+         Isaiah Todd       0          0.02      0.35
+       Ish Wainright       5          1.68      0.49
+       Jabari Parker       7          3.79      0.58
+     Jaden McDaniels       5          6.87      0.53
+         Jae Crowder       5          8.76      0.52
+       Jae'Sean Tate       5          9.68      0.54
+       Jalen Johnson       7          1.74      0.57
+         Jalen Smith       7          8.74      0.56
+       James Johnson       5          5.97      0.51
+     Jamorko Pickett       5          3.00      0.49
+      JaMychal Green       5          6.14      0.54
+   Jaren Jackson Jr.       5          6.89      0.48
+   Jarred Vanderbilt       7         12.79      0.59
+          Jeff Green       7          6.80      0.57
+        Jerami Grant       5          5.89      0.49
+        Jericho Sims      10          6.30      0.72
+        John Collins       8         14.45      0.58
+             JT Thor       5          2.15      0.50
+ Juancho Hernangómez       5          3.55      0.53
+       Julius Randle       7          9.37      0.46
+     Justise Winslow       5          5.11      0.46
+        Juwan Morgan-842150451 -431602080.00      0.83
+        Kevin Durant       9         19.46      0.57
+  Kristaps Porzi??is       8         11.97      0.51
+       Kyle Anderson       5          8.23      0.48
+          Kyle Kuzma       7         12.29      0.52
+           KZ Okpala       5          2.90      0.50
+       Lamar Stevens       5          3.83      0.52
+        LeBron James      10         22.52      0.59
+         Malik Fitts       7          1.60      0.55
+      Mamadi Diakite       5          5.75      0.53
+       Marcus Morris       5          6.52      0.51
+     Markieff Morris       5          4.12      0.53
+     Marquese Chriss       5          3.64      0.49
+   Marvin Bagley III       5          9.09      0.53
+         Maxi Kleber       5          8.21      0.52
+       Miles Bridges       8         14.56      0.55
+        Moses Wright-842150451 -431602080.00      0.25
+       Nathan Knight       5          3.29      0.53
+       Nicolas Batum       8          9.84      0.60
+          Obi Toppin       7          7.46      0.59
+     Otto Porter Jr.       7          9.94      0.56
+         P.J. Tucker       7          9.67      0.58
+       Pascal Siakam       9         15.20      0.52
+    Patrick Williams       8          8.13      0.60
+         Paul George       7         10.37      0.49
+       Petr Cornelie       5          0.37      0.37
+        Reggie Perry       5          7.18      0.52
+    Robert Covington       5          9.97      0.55
+         Rodney Hood       5          1.93      0.47
+            Rudy Gay       5          5.59      0.51
+       Rui Hachimura       7          7.46      0.56
+          Sam Dekker-842150451 -431602080.00      0.00
+Sandro Mamukelashvili       7          3.77      0.59
+        Santi Aldama       3          1.90      0.42
+      Scottie Barnes       7         12.38      0.52
+     Sekou Doumbouya-842150451 -431602080.00      0.69
+        Semi Ojeleye       5          0.81      0.38
+     Stanley Johnson       5          6.16      0.53
+      Taurean Prince       7          5.40      0.56
+        Terry Taylor       8         10.66      0.64
+      Thaddeus Young       7          7.51      0.55
+       Tobias Harris       8         11.96      0.53
+          Trey Lyles       5          7.10      0.53
+    Tristan Thompson       5          6.31      0.53
+          Tyler Cook       8          4.01      0.61
+        Usman Garuba       5          4.70      0.49
+       Vlatko ?an?ar       8          4.80      0.65
+  Wendell Carter Jr.       9         16.56      0.58
+      Wenyen Gabriel       5          4.82      0.53
+  Xavier Tillman Sr.       5          4.32      0.48
+          Zeke Nnaji       8          6.63      0.62
+       Aaron Holiday       5          4.21      0.50
+      Brad Wanamaker       5          1.62      0.39
+     Brandon Goodwin       5          3.65      0.48
+      Brandon Knight-842150451 -431602080.00      0.48
+    Brandon Williams       3          1.60      0.43
+       Cameron Payne       5          5.66      0.47
+        Carlik Jones-842150451 -431602080.00      0.11
+     Cassius Winston       5          0.32      0.46
+          Cat Barber-842150451 -431602080.00      0.00
+       Chris Chiozza       3          1.44      0.40
+          Chris Paul       9         16.95      0.54
+          Coby White       5          7.21      0.54
+        Cole Anthony       5          6.85      0.46
+         Cory Joseph       5          6.72      0.53
+       D.J. Augustin       7          3.92      0.58
+       Dalano Banton       3          2.43      0.44
+      Damian Lillard       5          8.17      0.49
+    D'Angelo Russell       5          9.30      0.50
+      Darius Garland       7         12.54      0.54
+     Darren Collison-842150451 -431602080.00      0.29
+      David Duke Jr.       3          2.09      0.40
+     Davion Mitchell       5          4.81      0.48
+        De'Aaron Fox       5          8.79      0.51
+     Dejounte Murray       9         17.22      0.50
+    Dennis Smith Jr.       3          4.41      0.43
+        Derrick Rose       5          7.38      0.51
+      Derrick Walton-842150451 -431602080.00      0.29
+       Devin Cannady-842150451 -431602080.00      0.51
+        Devon Dotson       5          2.04      0.52
+     Devonte' Graham       5          5.26      0.48
+Duane Washington Jr.       5          2.92      0.50
+       Elfrid Payton       5          1.81      0.39
+     Emmanuel Mudiay-842150451 -431602080.00      0.00
+        Eric Bledsoe       5          5.98      0.47
+    Facundo Campazzo       5          4.56      0.46
+       Frank Jackson       5          2.25      0.49
+       Fred VanVleet       7         11.78      0.51
+        Gabe Vincent       5          5.66      0.53
+         George Hill       5          5.32      0.50
+        Goran Dragi?       3          4.23      0.43
+     Hassani Gravett       8          7.14      0.62
+   Immanuel Quickley       5          5.55      0.49
+       Isaiah Thomas       5          2.21      0.49
+           Ish Smith       5          4.66      0.46
+           Ja Morant       8         13.65      0.53
+         Jalen Suggs       3          0.69      0.40
+        James Harden       8         14.04      0.49
+  JaQuori McLaughlin-842150451 -431602080.00      0.00
+        Jared Harper-842150451 -431602080.00      0.63
+       Javonte Smart       5          0.40      0.38
+       Jaysean Paige-842150451 -431602080.00      0.00
+         Jeff Dowtin       0          0.99      0.33
+        Jevon Carter       5          3.47      0.52
+   Jordan McLaughlin       5          5.01      0.51
+       Jose Alvarado       5          5.37      0.50
+        Jrue Holiday       9         15.12      0.57
+     Justin Robinson       5          0.24      0.40
+        Keifer Sykes       3          1.10      0.43
+        Kemba Walker       5          6.18      0.50
+        Kevin Pangos       5          0.64      0.39
+    Kevin Porter Jr.       5          9.56      0.51
+       Killian Hayes       3          5.21      0.43
+      Kira Lewis Jr.       3          1.75      0.45
+           Kris Dunn       3          6.49      0.44
+          Kyle Lowry       8         13.32      0.56
+        Kyrie Irving       8         14.61      0.55
+         LaMelo Ball       8         14.34      0.52
+    Lance Stephenson       5          5.29      0.50
+   Lindell Wigginton       5          2.21      0.50
+          Lonzo Ball       8         13.96      0.57
+        Lou Williams       3          1.75      0.45
+         Luka Don?i?       9         18.19      0.53
+       Malachi Flynn       5          2.82      0.47
+     Malcolm Brogdon       7         10.19      0.50
+        Malik Newman-842150451 -431602080.00      0.60
+        Marcus Smart       5          9.41      0.50
+      Markelle Fultz       5          6.76      0.49
+  McKinley Wright IV-842150451 -431602080.00      0.83
+         Mike Conley       7         10.40      0.54
+       Miles McBride       5          0.84      0.38
+        Monte Morris       7         10.21      0.56
+       Mychal Mulder       3          0.09      0.42
+        Myles Powell       0         -0.65      0.32
+    Patrick Beverley       5          9.59      0.50
+    Payton Pritchard       7          5.12      0.56
+         Rajon Rondo       5          5.78      0.47
+           Raul Neto       5          4.77      0.50
+         Ricky Rubio       3          5.78      0.43
+   Russell Westbrook       7         10.06      0.48
+    Ryan Arcidiacono       9          1.80      0.67
+           Saben Lee       3          3.71      0.43
+Shai Gilgeous-Alexander       5          9.82      0.50
+      Sharife Cooper       0         -0.69      0.25
+   Spencer Dinwiddie       5          8.24      0.49
+       Stephen Curry       8         14.98      0.55
+      T.J. McConnell       5          8.72      0.50
+        Théo Maledon       3          2.54      0.44
+         Tim Frazier       5          1.40      0.38
+          Trae Young       8         14.30      0.54
+           Tre Jones       5          5.76      0.50
+            Tre Mann       5          3.12      0.48
+      Tremont Waters-842150451 -431602080.00      0.36
+       Trent Forrest       5          3.29      0.51
+          Trey Burke       5          0.70      0.45
+       Tyler Johnson       3          2.83      0.43
+        Tyrell Terry-842150451 -431602080.00      1.00
+        Tyrese Maxey       7         10.76      0.55
+          Tyus Jones       5          7.94      0.52
+      Zavier Simpson-842150451 -431602080.00      0.38
+         Aaron Henry       0         -0.83      0.20
+       Aaron Nesmith       5          1.72      0.48
+         Abdel Nader       3          1.29      0.40
+   Admiral Schofield       5          2.97      0.52
+          Aleem Ford-842150451 -431602080.00      0.35
+    Alfonzo McKinnie       5          1.63      0.47
+      Andre Iguodala       3          6.69      0.45
+      Andrew Wiggins       5          9.60      0.54
+        Anthony Lamb-842150451 -431602080.00      0.00
+    Arnoldas Kulboka-842150451 -431602080.00      0.00
+        B.J. Johnson-842150451 -431602080.00      0.52
+      Brandon Ingram       5          9.56      0.50
+         Braxton Key       5          6.45      0.50
+         Bruce Brown       5          9.28      0.54
+        Caleb Martin       7          8.17      0.58
+         Cam Reddish       5          2.60      0.49
+     Cameron McGriff-842150451 -431602080.00      0.43
+      Cameron Oliver-842150451 -431602080.00      0.70
+          Cedi Osman       5          5.92      0.54
+  Chandler Hutchison       5          0.50      0.50
+       Chris Boucher       5          8.34      0.52
+           CJ Elleby       5          4.17      0.45
+         Cody Martin       7          8.86      0.55
+       Corey Kispert       7          5.78      0.56
+         Danny Green       7          5.57      0.56
+    Danuel House Jr.       5          4.15      0.51
+         David Nwaba       5          5.13      0.53
+     DeAndre' Bembry       7          6.48      0.60
+     De'Andre Hunter       5          4.69      0.51
+         Deni Avdija       5          7.51      0.50
+       Devin Vassell       5          7.82      0.52
+       Dillon Brooks       5          3.81      0.47
+       Dylan Windler       5          2.34      0.49
+      Eugene Omoruyi-842150451 -431602080.00      0.50
+          Feron Hunt-842150451 -431602080.00      0.00
+        Franz Wagner       5          8.21      0.52
+         George King-842150451 -431602080.00      0.00
+Georgios Kalaitzakis       5          2.91      0.54
+      Gordon Hayward       5          9.62      0.53
+      Greg Brown III       5          3.36      0.48
+   Haywood Highsmith       3          1.24      0.45
+    Ignas Brazdeikis       5          2.56      0.50
+         Isaac Bonga       0         -0.11      0.27
+         Isaac Okoro       5          6.52      0.54
+       Isaiah Livers       8          6.60      0.61
+         Jake Layman       5          1.03      0.47
+     Jalen McDaniels       7          5.79      0.56
+     James Ennis III       5          2.76      0.52
+       Javonte Green       7          8.57      0.60
+        Jaylen Brown       7         11.84      0.54
+        Jaylen Hoard       9         16.99      0.54
+        Jayson Tatum       8         13.85      0.53
+      Jemerrio Jones-842150451 -431602080.00      0.67
+         Jeremy Lamb       5          3.31      0.46
+        Jimmy Butler       7         11.02      0.50
+          Joe Harris       8          8.78      0.62
+          Joe Ingles       5          7.09      0.54
+    Jonathan Kuminga       7          6.16      0.57
+        Jordan Nwora       5          3.89      0.49
+         Josh Giddey       7         10.22      0.46
+        Josh Jackson       5          2.57      0.46
+        Joshua Primo       5          2.38      0.45
+Juan Toscano-Anderson       5          4.84      0.55
+     Justin Anderson       5          4.14      0.46
+   Justin Champagnie       5          2.73      0.54
+      Justin Holiday       5          5.64      0.53
+      Justin Jackson       3          0.48      0.43
+    Keita Bates-Diop       5          5.56      0.55
+        Kelan Martin       5          2.17      0.47
+      Keldon Johnson       8         10.75      0.55
+      Keljin Blevins       3          0.45      0.40
+     Kelly Oubre Jr.       5          7.94      0.54
+    Kenrich Williams       5          7.56      0.52
+       Kent Bazemore       3          1.84      0.43
+   Kenyon Martin Jr.       7          7.93      0.59
+     Kessler Edwards       5          4.51      0.50
+       Kevin Huerter       7          8.59      0.56
+          Kevin Knox       5          1.12      0.45
+     Khris Middleton       7         11.06      0.52
+     Lauri Markkanen       5          9.61      0.54
+     Leandro Bolmaro       5          0.53      0.36
+          Louis King       3          0.26      0.40
+        Malcolm Hill       7          3.75      0.59
+           Matt Ryan-842150451 -431602080.00      0.30
+    Maurice Harkless       5          4.09      0.54
+           Max Strus       8          7.73      0.60
+  Michael Porter Jr.       3          3.98      0.41
+       Mikal Bridges       8         12.03      0.60
+       Naji Marshall       3          2.18      0.44
+       Nassir Little       5          8.88      0.54
+       Norman Powell       5          8.61      0.55
+          OG Anunoby       7         10.13      0.53
+      Oshae Brissett       5          6.44      0.49
+          Paris Bass-842150451 -431602080.00      0.33
+     Pat Connaughton       8          9.51      0.61
+         Paul Watson       3          2.97      0.43
+      Reggie Bullock       5          6.31      0.54
+          RJ Barrett       5          4.56      0.47
+   Robert Woodard II       0         -1.32      0.16
+       Royce O'Neale       7         10.05      0.59
+          Saddiq Bey       5          7.41      0.49
+          Sam Hauser       8          2.69      0.65
+        Solomon Hill       0          1.23      0.20
+      Svi Mykhailiuk       5          1.95      0.48
+        Terance Mann       5          9.29      0.54
+Thanasis Antetokounmpo       7          3.31      0.56
+         Theo Pinson       5          1.97      0.49
+Timothé Luwawu-Cabarrot       5          2.69      0.52
+        Torrey Craig       5          6.34      0.54
+           Tre Scott-842150451 -431602080.00      0.50
+     Trendon Watford       5          7.37      0.55
+        Trevor Ariza       3          3.66      0.43
+     Trey Murphy III       5          3.66      0.52
+      Troy Brown Jr.       5          4.47      0.51
+          Wes Iwundu-842150451 -431602080.00      0.53
+        Xavier Sneed       0         -0.33      0.25
+       Yuta Watanabe       5          3.25      0.50
+           Yves Pons       3          0.92      0.41
+     Ziaire Williams       5          4.42      0.54
+      Zylan Cheatham-842150451 -431602080.00      0.00
+       Aaron Wiggins       5          5.43      0.52
+          Ade Murkey-842150451 -431602080.00      0.00
+         Ahmad Caver-842150451 -431602080.00      1.00
+          Alec Burks       5          8.05      0.50
+         Alex Caruso       5          7.72      0.48
+         Amir Coffey       7          6.58      0.56
+     Anfernee Simons       7          8.58      0.56
+     Anthony Edwards       7         10.22      0.53
+       Armoni Brooks       5          2.52      0.47
+       Austin Reaves       5          6.24      0.54
+       Austin Rivers       5          3.77      0.53
+       Avery Bradley       5          4.28      0.54
+         Ayo Dosunmu       7          8.42      0.58
+        Ben McLemore       5          3.97      0.54
+   Bogdan Bogdanovi?       5          9.32      0.54
+        Bones Hyland       5          5.83      0.52
+        Bradley Beal       5          8.50      0.49
+  Brandon Boston Jr.       3          1.39      0.44
+      Brodric Thomas       5          1.42      0.50
+         Bryn Forbes       5          3.26      0.54
+         Buddy Hield       5          8.05      0.53
+          C.J. Miles-842150451 -431602080.00      0.00
+     Cade Cunningham       5          7.18      0.47
+          Cam Thomas       5          2.65      0.48
+        Caris LeVert       5          6.83      0.49
+      Carsen Edwards-842150451 -431602080.00      0.37
+     Cassius Stanley       5          1.58      0.46
+   Charlie Brown Jr.       0         -0.21      0.27
+  Chaundee Brown Jr.-842150451 -431602080.00      0.41
+        Chris Duarte       5          6.11      0.51
+         CJ McCollum       7         12.05      0.54
+       Collin Sexton       5          2.60      0.49
+         Craig Sword-842150451 -431602080.00      0.75
+         Daishen Nix       5          1.95      0.46
+      Dakota Mathias       5          0.67      0.50
+          Damion Lee       5          4.99      0.52
+      Damyean Dotson-842150451 -431602080.00      0.50
+     DaQuan Jeffries-842150451 -431602080.00      0.50
+       David Johnson-842150451 -431602080.00      0.00
+          Davon Reed       8          5.37      0.62
+   De'Anthony Melton       5          7.75      0.50
+   Deividas Sirvydis-842150451 -431602080.00      0.15
+       DeJon Jarreau-842150451 -431602080.00      0.00
+        Delon Wright       5          6.75      0.54
+     Dennis Schröder       5          6.13      0.49
+    Denzel Valentine       5          2.29      0.52
+       Derrick White       5          8.02      0.49
+        Desmond Bane       7         11.45      0.56
+        Devin Booker       7         12.03      0.53
+        Didi Louzada       5          2.33      0.50
+    Donovan Mitchell       7         11.43      0.53
+    Donte DiVincenzo       5          4.95      0.46
+     Duncan Robinson       7          6.46      0.56
+       Elijah Hughes       3          0.89      0.41
+         Eric Gordon       7          7.51      0.58
+       Evan Fournier       5          6.82      0.54
+     Frank Ntilikina       5          2.33      0.48
+      Furkan Korkmaz       5          3.41      0.47
+           Gabe York-842150451 -431602080.00      0.36
+    Gabriel Lundberg-842150451 -431602080.00      0.34
+      Garrett Temple       5          3.56      0.48
+    Garrison Mathews       7          6.34      0.55
+         Gary Harris       5          5.50      0.54
+      Gary Payton II       9          9.21      0.68
+      Gary Trent Jr.       5          6.50      0.51
+       Grayson Allen       7          8.52      0.59
+      Hamidou Diallo       5          7.31      0.52
+          Isaiah Joe       5          1.27      0.48
+      Jaden Springer-842150451 -431602080.00      1.00
+     Jahmi'us Ramsey       5          0.30      0.46
+       Jalen Brunson       7         10.89      0.55
+         Jalen Green       5          5.45      0.51
+     James Bouknight       3          0.22      0.41
+        Jared Butler       5          2.33      0.50
+      Jarrett Culver       3          1.03      0.42
+   Jarron Cumberland-842150451 -431602080.00      0.50
+          Jay Scrubb       5          0.82      0.46
+       Jaylen Morris-842150451 -431602080.00      0.00
+       Jaylen Nowell       7          5.67      0.55
+         Joe Johnson-842150451 -431602080.00      1.00
+        Joe Wieskamp       5          0.81      0.48
+          Joel Ayayi       0         -0.14      0.17
+        John Konchar       8          8.42      0.62
+     Jordan Clarkson       5          5.57      0.50
+      Jordan Goodwin-842150451 -431602080.00      0.00
+        Jordan Poole       5          9.29      0.55
+      Jordan Schakel-842150451 -431602080.00      0.14
+    Josh Christopher       5          4.18      0.50
+          Josh Green       7          4.87      0.56
+           Josh Hart       8         14.22      0.57
+         Josh Okogie       5          1.91      0.47
+     Josh Richardson       5          6.21      0.53
+Kentavious Caldwell-Pope       5          6.97      0.53
+        Keon Johnson       3          1.13      0.41
+       Klay Thompson       5          8.58      0.53
+            Kyle Guy       5          1.65      0.51
+       Landry Shamet       5          4.00      0.52
+   Langston Galloway       0          0.14      0.27
+    Lindy Waters III       7          6.15      0.56
+    Lonnie Walker IV       5          3.63      0.48
+       Luguentz Dort       5          4.92      0.49
+        Luke Kennard       7          9.09      0.60
+         M.J. Walker-842150451 -431602080.00      0.00
+         Mac McClung-842150451 -431602080.00      0.58
+       Malik Beasley       5          5.94      0.53
+          Malik Monk       7          9.54      0.58
+      Marcus Garrett       0          1.03      0.26
+       Markus Howard       5          1.06      0.52
+         Mason Jones-842150451 -431602080.00      0.50
+    Matisse Thybulle       7          7.15      0.57
+         Matt Mooney-842150451 -431602080.00      0.00
+         Matt Thomas       5          2.44      0.54
+      Melvin Frazier-842150451 -431602080.00      0.28
+            Miye Oni       0          0.19      0.28
+         Moses Moody       5          2.80      0.55
+         Nate Hinton-842150451 -431602080.00      0.00
+Nickeil Alexander-Walker       3          2.49      0.45
+        Nik Stauskas       5          0.50      0.50
+         Patty Mills       7          6.23      0.55
+           PJ Dozier       3          3.84      0.44
+      Quentin Grimes       7          4.53      0.56
+Quinndary Weatherspoon       7          2.51      0.60
+        R.J. Hampton       5          3.41      0.45
+       Rayjon Tucker-842150451 -431602080.00      0.89
+      Reggie Jackson       5          4.10      0.46
+     RJ Nembhard Jr.       0          0.14      0.33
+         Rob Edwards-842150451 -431602080.00      0.38
+     Rodney McGruder       7          4.41      0.56
+      Romeo Langford       5          3.32      0.51
+         Sam Merrill       5          1.13      0.48
+       Scottie Lewis-842150451 -431602080.00      0.00
+       Scotty Hopson-842150451 -431602080.00      0.50
+          Seth Curry       7         10.81      0.59
+        Shake Milton       5          4.55      0.48
+       Shaq Buchanan-842150451 -431602080.00      0.25
+  Shaquille Harrison-842150451 -431602080.00      0.33
+         Skylar Mays       7          2.03      0.56
+      Sterling Brown       5          3.29      0.47
+ Talen Horton-Tucker       5          4.33      0.46
+       Terence Davis       5          5.17      0.51
+       Terrence Ross       5          2.43      0.47
+        Terry Rozier       7         11.87      0.54
+    Tim Hardaway Jr.       5          5.62      0.49
+    Tomáš Satoranský       3          3.75      0.41
+          Tony Snell       5          3.05      0.54
+      Trayvon Palmer-842150451 -431602080.00      0.00
+      Trevelin Queen       7          3.22      0.59
+           Ty Jerome       5          2.62      0.46
+          Tyler Hall-842150451 -431602080.00      0.00
+         Tyler Herro       5          9.09      0.52
+   Tyrese Haliburton       9         15.37      0.56
+      Tyrone Wallace       3          0.42      0.40
+      Victor Oladipo       7          8.61      0.58
+          Vit Krejci       5          5.27      0.50
+     Wayne Ellington       7          4.66      0.59
+        Wayne Selden-842150451 -431602080.00      0.38
+     Wesley Matthews       5          3.19      0.52
+         Will Barton       5          9.50      0.52
+         Xavier Moon       5          5.04      0.54
+         Zach LaVine       7         12.28      0.55

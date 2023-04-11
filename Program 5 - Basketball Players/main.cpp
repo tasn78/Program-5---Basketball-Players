@@ -20,9 +20,6 @@ int main() {
 	
 	printTeam(outFile, teamList);
 
-	for (int i = 0; i < teamList.size(); ++i) {
-		teamList[i]->print();
-	}
 	cout << teamList.size() << endl;
 
 	outFile.close();
