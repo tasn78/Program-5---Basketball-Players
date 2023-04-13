@@ -165,8 +165,8 @@ void getNBAData(vector<BasketballPlayer*>& teamList) {
             teamList.push_back(tempPlayer);
 
             if (tempPlayer->getGames() > 5) {
-                float rating = ((tempPlayer->getPoints() + tempPlayer->getTRB() + tempPlayer->getAST() + tempPlayer->getSTL() +
-                    tempPlayer->getBLK() - ((tempPlayer->getPoints() / tempPlayer->getEFG()) - tempPlayer->getPoints() +
+                float rating = (tempPlayer->getPoints() + tempPlayer->getTRB() + tempPlayer->getAST() + tempPlayer->getSTL() +
+                    tempPlayer->getBLK() - (tempPlayer->getPoints() / tempPlayer->getEFG()) - tempPlayer->getPoints() +
                         tempPlayer->getTOV())) / tempPlayer->getGames());
                 tempPlayer->setEffRating(rating);
             }
